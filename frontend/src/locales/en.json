@@ -1,0 +1,1003 @@
+{
+  "common": {
+    "shopNow": "Shop Now",
+    "addToCart": "Add to Cart",
+    "buyNow": "Buy Now",
+    "outOfStock": "Out of Stock",
+    "inStock": "In Stock",
+    "onlyLeft": "Only {count} left",
+    "loading": "Loading...",
+    "search": "Search",
+    "viewAll": "View All",
+    "backToTop": "Back to Top",
+    "phone": "Phone",
+    "email": "Email",
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "close": "Close",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous",
+    "submit": "Submit",
+    "reset": "Reset",
+    "filter": "Filter",
+    "sort": "Sort",
+    "clear": "Clear",
+    "apply": "Apply",
+    "noResults": "No results found",
+    "error": "Something went wrong"
+  },
+  "nav": {
+    "announcement": "Free Shipping on Orders Over $5,000 | JDM Direct from Japan",
+    "home": "Home",
+    "engines": "Engines",
+    "transmissions": "Transmissions",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "parts": "Parts",
+    "search": "Search",
+    "cart": "Cart",
+    "account": "Account",
+    "menu": "Menu",
+    "phone": "+1 (800) 536-8669",
+    "openSearch": "Open search",
+    "openCart": "Open cart",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "itemsInCart": "{count} items in cart",
+    "megaMenu": {
+      "engines": {
+        "title": "Shop Engines",
+        "honda": "Honda Engines",
+        "toyota": "Toyota Engines",
+        "nissan": "Nissan Engines",
+        "subaru": "Subaru Engines",
+        "mazda": "Mazda Engines",
+        "mitsubishi": "Mitsubishi Engines",
+        "viewAll": "View All Engines"
+      },
+      "transmissions": {
+        "title": "Shop Transmissions",
+        "manual": "Manual Transmissions",
+        "automatic": "Automatic Transmissions",
+        "sequential": "Sequential Transmissions",
+        "cvt": "CVT Transmissions",
+        "viewAll": "View All Transmissions"
+      }
+    }
+  },
+  "home": {
+    "heroTitle": "Premium JDM Engines & Transmissions",
+    "heroSubtitle": "Direct from Japan. Under 65K Miles. Nationwide Shipping.",
+    "shopEngines": "Shop Engines",
+    "shopTransmissions": "Shop Transmissions",
+    "vehicleSelector": {
+      "make": "Select Make",
+      "model": "Select Model",
+      "year": "Select Year",
+      "search": "Find My Engine"
+    },
+    "featured": "Featured Products",
+    "viewAll": "View All",
+    "browseByMake": "Browse by Make",
+    "categoryEngines": "JDM Engines",
+    "categoryTransmissions": "JDM Transmissions",
+    "categoryParts": "JDM Parts",
+    "partsDescription": "OEM and aftermarket JDM parts, accessories, and components for your build.",
+    "partsPageTitle": "JDM Parts",
+    "browse": "Browse",
+    "productsCount": "{count} Products",
+    "noProductsFound": "No products found",
+    "noProductsHint": "Try adjusting your filters or search terms.",
+    "filtersTitle": "Filter Results",
+    "clearFilters": "Clear Filters",
+    "applyFilters": "Apply Filters",
+    "sortBy": "Sort By",
+    "priceFrom": "Min Price",
+    "priceTo": "Max Price",
+    "inStockOnly": "In Stock Only",
+    "allMakes": "All Makes",
+    "allModels": "All Models",
+    "allYears": "All Years",
+    "enginesPageTitle": "JDM Engines",
+    "transmissionsPageTitle": "JDM Transmissions",
+    "makeEnginesTitle": "JDM {make} Engines",
+    "makeTransmissionsTitle": "JDM {make} Transmissions",
+    "makeModelEnginesTitle": "JDM {make} {model} Engines",
+    "makeModelTransmissionsTitle": "JDM {make} {model} Transmissions",
+    "searchPageTitle": "Search Results",
+    "pageOf": "Page {current} of {total}",
+    "trustBadges": {
+      "warranty": "30-Day Warranty",
+      "warrantyDesc": "Every unit backed by our 30-day warranty",
+      "shipping": "Nationwide Shipping",
+      "shippingDesc": "Fast delivery across the continental US",
+      "quality": "Under 65K Miles",
+      "qualityDesc": "All units verified under 65,000 miles",
+      "support": "Expert Support",
+      "supportDesc": "JDM specialists ready to help you"
+    },
+    "whyChooseUs": "Why Choose Us",
+    "latestBlog": "Latest from the Blog"
+  },
+  "product": {
+    "specifications": "Specifications",
+    "fitment": "Fitment",
+    "description": "Description",
+    "engineCode": "Engine Code",
+    "displacement": "Displacement",
+    "cylinders": "Cylinders",
+    "fuelType": "Fuel Type",
+    "gasoline": "Gasoline",
+    "diesel": "Diesel",
+    "hybrid": "Hybrid",
+    "electric": "Electric",
+    "mileage": "Mileage",
+    "condition": "Condition",
+    "warranty": "Warranty",
+    "related": "Related Products",
+    "maxPerOrder": "Maximum 1 unit per order",
+    "sku": "SKU",
+    "make": "Make",
+    "model": "Model",
+    "yearRange": "Year Range",
+    "category": "Category",
+    "partNumber": "Part Number",
+    "partCode": "Part Code",
+    "addedToCart": "Added!",
+    "viewCart": "View Cart",
+    "transmissionType": "Transmission Type",
+    "compareSavings": "You save",
+    "compatibility": "Vehicle Compatibility",
+    "make_col": "Make",
+    "model_col": "Model",
+    "years_col": "Years",
+    "notes_col": "Notes"
+  },
+  "cart": {
+    "title": "Your Cart",
+    "empty": "Your cart is empty",
+    "emptyDescription": "Looks like you haven't added any parts yet.",
+    "shopNow": "Shop Now",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shippingBusiness": "Business delivery",
+    "shippingResidential": "Residential delivery",
+    "shippingEstimate": "Estimated shipping",
+    "calculatedAtCheckout": "Calculated at checkout",
+    "shippingToBeCalculated": "Shipping will be calculated at checkout based on your location",
+    "toBeCalculated": "To be calculated",
+    "free": "Free",
+    "total": "Total",
+    "checkout": "Proceed to Checkout",
+    "continueShopping": "Continue Shopping",
+    "remove": "Remove",
+    "removeItem": "Remove {title}",
+    "itemAdded": "Item added to cart",
+    "updateQuantity": "Update Quantity",
+    "clearCart": "Clear Cart",
+    "items": "{count, plural, one {# item} other {# items}}",
+    "itemCount": "{count} item",
+    "itemCountPlural": "{count} items",
+    "businessRate": "$500",
+    "residentialRate": "$700",
+    "freeShippingThreshold": "Free shipping on orders over {threshold}",
+    "category": "Category",
+    "viewCart": "View Cart"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "contact": {
+      "title": "Contact Information",
+      "subtitle": "We'll use this to send your order confirmation and updates."
+    },
+    "shipping": {
+      "title": "Shipping Address",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Email Address",
+      "phone": "Phone Number",
+      "address": "Street Address",
+      "addressPlaceholder": "Start typing your address...",
+      "address2": "Apt, Suite, Unit (optional)",
+      "city": "City",
+      "state": "State",
+      "zip": "ZIP Code",
+      "type": "Delivery Type",
+      "forklift": "With Forklift",
+      "noForklift": "Without Forklift",
+      "liftgate": "Liftgate Delivery",
+      "residentialDelivery": "Residential Delivery",
+      "freeShipping": "Free shipping on orders over {amount}!"
+    },
+    "payment": {
+      "title": "Payment",
+      "cardNumber": "Card Number",
+      "expiry": "Expiration Date",
+      "cvc": "CVC",
+      "processing": "Processing payment..."
+    },
+    "placeOrder": "Place Order",
+    "calculatedAtCheckout": "Calculated at checkout",
+    "orderSummary": "Order Summary",
+    "billingAddress": "Billing Address",
+    "billing": {
+      "title": "Billing Address",
+      "sameAsShipping": "Same as shipping address",
+      "different": "Use a different billing address"
+    },
+    "sameAsShipping": "Same as shipping address",
+    "policies": {
+      "shipping": "Shipping Policy",
+      "refund": "Refund Policy",
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service"
+    },
+    "trust": {
+      "securePayment": "Secure Payment",
+      "warranty": "30-Day Warranty",
+      "shipping": "Nationwide Shipping"
+    }
+  },
+  "orders": {
+    "confirmation": {
+      "title": "Order Confirmed",
+      "thankYou": "Thank you for your order!",
+      "orderNumber": "Order Number",
+      "emailSent": "A confirmation email has been sent to your inbox.",
+      "nextSteps": "What happens next",
+      "step1": "We will verify your order and payment within 1 business day.",
+      "step2": "Your unit will be prepared and shipped within 3–5 business days.",
+      "step3": "You will receive a tracking number via email once shipped."
+    }
+  },
+  "search": {
+    "placeholder": "Search engines, transmissions, makes...",
+    "results": "{count} results for \"{query}\"",
+    "noResults": "No results found for \"{query}\"",
+    "noResultsHint": "Try searching for a make, model, or part number.",
+    "recentSearches": "Recent Searches",
+    "clearRecent": "Clear",
+    "shortcut": "Press {key} to search",
+    "close": "Close search",
+    "loading": "Searching...",
+    "viewAll": "View all results",
+    "filters": {
+      "category": "Category",
+      "make": "Make",
+      "priceRange": "Price Range",
+      "availability": "Availability",
+      "yearRange": "Year Range"
+    }
+  },
+  "footer": {
+    "about": "About JDM Tokyo Motorsports",
+    "policies": "Policies",
+    "warranty": "Warranty",
+    "shipping": "Shipping",
+    "returns": "Returns",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "company": {
+      "description": "Direct importers of premium JDM engines and transmissions from Japan. Quality-tested, low-mileage parts with comprehensive warranties.",
+      "followUs": "Follow Us"
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "engines": "Engines",
+      "transmissions": "Transmissions",
+      "trackOrder": "Track Order",
+      "about": "About Us",
+      "contact": "Contact",
+      "blog": "Blog"
+    },
+    "newsletter": {
+      "title": "Stay in the Loop",
+      "description": "Get the latest JDM arrivals, promotions, and engine guides delivered to your inbox.",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe",
+      "button": "Subscribe",
+      "success": "Thanks for subscribing!",
+      "error": "Something went wrong. Please try again."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "phone": "+1 (800) 536-8669",
+      "email": "sales@jdmtokyomotors.com",
+      "hours": "Mon–Fri: 9:00 AM – 5:00 PM PST",
+      "address": "123 JDM Way, Los Angeles, CA 90001",
+      "businessHours": {
+        "title": "Business Hours",
+        "weekdays": "MON – FRI: {hours}",
+        "saturday": "SAT: {hours}",
+        "sunday": "SUN: {hours}"
+      }
+    },
+    "copyright": "© {year} JDM Tokyo Motorsports.",
+    "allRightsReserved": "All rights reserved.",
+    "builtWith": "Built with love for JDM enthusiasts."
+  },
+  "blog": {
+    "title": "JDM Tokyo Blog",
+    "readMore": "Read More",
+    "publishedOn": "Published on {date}",
+    "backToBlog": "Back to Blog",
+    "latestPosts": "Latest Posts",
+    "noPosts": "No blog posts yet. Check back soon!"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Have questions? We're here to help.",
+    "form": {
+      "name": "Your Name",
+      "email": "Email Address",
+      "phone": "Phone Number (optional)",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "title": "Get in Touch",
+      "address": "123 JDM Way, Los Angeles, CA 90001",
+      "phone": "+1 (800) 536-8669",
+      "email": "sales@jdmtokyomotors.com",
+      "hours": "Monday – Friday: 9:00 AM – 5:00 PM PST"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "JDM Tokyo Motorsports is your trusted source for premium Japanese domestic market engines and transmissions, sourced directly from Japan.",
+    "story": {
+      "title": "Our Story",
+      "p1": "JDM Tokyo Motorsports was founded by a group of passionate JDM enthusiasts who saw a gap in the market for reliable, quality-inspected Japanese engines and transmissions in the United States.",
+      "p2": "We established direct relationships with trusted dismantlers and importers in Japan, allowing us to source low-mileage units — typically under 65,000 miles — that meet our strict quality standards before they ever leave Japan.",
+      "p3": "Today, we ship nationwide and have helped thousands of customers find the perfect engine or transmission for their build, swap, or repair. Our team of experts is always available to help you find the right fitment."
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality First",
+        "description": "Every unit is inspected and compression-tested before shipping. We stand behind every product we sell."
+      },
+      "direct": {
+        "title": "Direct Import",
+        "description": "We source directly from Japan, cutting out middlemen and passing the savings to you with competitive pricing."
+      },
+      "shipping": {
+        "title": "Nationwide Shipping",
+        "description": "We ship to all 50 states via freight carriers. Business and residential delivery options available."
+      },
+      "warranty": {
+        "title": "30-Day Warranty",
+        "description": "Every engine and transmission comes with a 30-day warranty against defects and compression failures."
+      },
+      "support": {
+        "title": "Expert Support",
+        "description": "Our team of JDM specialists is available by phone and email to help with fitment questions and technical support."
+      },
+      "performance": {
+        "title": "Performance Heritage",
+        "description": "We specialize in high-performance JDM engines — from the legendary 2JZ to the iconic B18C and RB26."
+      },
+      "source": {
+        "title": "Trusted Source",
+        "description": "Every unit is sourced from verified dismantlers and importers in Japan with full documentation and history."
+      },
+      "mileage": {
+        "title": "Low Mileage",
+        "description": "Most of our engines and transmissions have under 65,000 miles — ensuring reliability and longevity for your build."
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose JDM Tokyo Motorsports",
+      "p1": "When you buy from JDM Tokyo Motorsports, you're getting a unit that has been sourced, inspected, and vetted by people who love these engines as much as you do. We don't just sell parts — we help you build.",
+      "p2": "With over 10 years of importing experience and thousands of satisfied customers, we are one of the most trusted JDM suppliers in the United States. Our transparent process, honest descriptions, and responsive customer service set us apart."
+    }
+  },
+  "warranty": {
+    "title": "Warranty Policy",
+    "subtitle": "Every engine and transmission sold by JDM Tokyo Motorsports comes with our comprehensive warranty.",
+    "overview": {
+      "title": "30-Day Warranty on All Units",
+      "description": "JDM Tokyo Motorsports warrants all engines and transmissions against defects in materials and workmanship for 30 days from the date of delivery. If your unit fails within this period due to a covered defect, we will replace it or provide a full refund."
+    },
+    "coverage": {
+      "title": "What Is Covered",
+      "item1": "Compression failures not disclosed at time of sale",
+      "item2": "Internal mechanical defects present at time of shipment",
+      "item3": "Incorrect unit shipped (wrong engine code or model)",
+      "item4": "Units with undisclosed damage discovered upon inspection",
+      "item5": "Significant mileage discrepancy from listed specification"
+    },
+    "exclusions": {
+      "title": "What Is Not Covered",
+      "item1": "Damage caused by improper installation or modification",
+      "item2": "Normal wear and tear during operation",
+      "item3": "Damage caused by overheating, lack of oil, or coolant issues after installation",
+      "item4": "External components such as sensors, wiring harnesses, or accessories"
+    },
+    "claims": {
+      "title": "How to File a Claim",
+      "step1": "Contact our team by phone (+1 800 536-8669) or email (sales@jdmtokyomotors.com) within 30 days of delivery.",
+      "step2": "Provide your order number, photos of the unit, and a description of the issue.",
+      "step3": "Our team will review your claim within 1–2 business days and provide a resolution.",
+      "step4": "Approved claims will receive a replacement unit or full refund processed through Stripe."
+    },
+    "duration": {
+      "title": "Warranty Duration",
+      "description": "The warranty period begins on the date of delivery as confirmed by the freight carrier. Claims must be submitted within 30 calendar days of delivery to be eligible."
+    }
+  },
+  "shippingPage": {
+    "title": "Shipping Information",
+    "subtitle": "We ship all engines and transmissions nationwide via freight carriers.",
+    "rates": {
+      "title": "Shipping Rates",
+      "business": {
+        "title": "Business Address",
+        "price": "$500",
+        "description": "Delivery to a commercial address with a loading dock or forklift. Fastest and most affordable option for shop owners and businesses."
+      },
+      "residential": {
+        "title": "Residential Address",
+        "price": "$700",
+        "description": "Delivery to a home or residential address. Includes liftgate service for safe unloading at your driveway."
+      }
+    },
+    "carriers": {
+      "title": "Shipping Carriers",
+      "description": "We partner with trusted freight carriers to ensure safe delivery of your engine or transmission.",
+      "carrier1": "Forward Air",
+      "carrier2": "XPO Logistics",
+      "carrier3": "Estes Express Lines"
+    },
+    "timeline": {
+      "title": "Delivery Timeline",
+      "step1": {
+        "label": "Order Processing (1–2 Business Days)",
+        "description": "After payment is confirmed, your order is processed and the unit is prepared for shipping."
+      },
+      "step2": {
+        "label": "Transit Time (3–7 Business Days)",
+        "description": "Freight transit times vary by destination. West Coast orders typically arrive faster than East Coast."
+      },
+      "step3": {
+        "label": "Tracking Notification",
+        "description": "You will receive tracking information via email once your order ships from our facility."
+      }
+    },
+    "notes": {
+      "title": "Important Shipping Notes",
+      "description": "All engines and transmissions are palletized and wrapped for safe transit. You will need to inspect your shipment upon delivery and note any visible damage on the bill of lading before signing. Contact us immediately if damage is discovered."
+    }
+  },
+  "returns": {
+    "title": "Returns & Refunds",
+    "subtitle": "We want you to be completely satisfied with your purchase.",
+    "policy": {
+      "title": "Return Policy",
+      "p1": "We accept returns within 30 days of delivery for units that qualify under our return policy. All refunds are processed through Stripe and typically appear within 5–10 business days.",
+      "p2": "To initiate a return, please contact our team by phone or email with your order number and reason for return. We will provide return shipping instructions."
+    },
+    "eligible": {
+      "title": "Eligible for Return",
+      "item1": "Defective units covered under our 30-day warranty",
+      "item2": "Incorrect unit shipped (wrong engine code or model)",
+      "item3": "Units with significant undisclosed damage"
+    },
+    "nonEligible": {
+      "title": "Not Eligible for Return",
+      "item1": "Units that have been installed or modified",
+      "item2": "Returns requested after 30 days from delivery",
+      "item3": "Units damaged due to improper installation or misuse"
+    },
+    "process": {
+      "title": "Return Process",
+      "step1": "Contact us by phone (+1 800 536-8669) or email (sales@jdmtokyomotors.com) to initiate your return.",
+      "step2": "Provide your order number and photos documenting the issue.",
+      "step3": "We will review your request within 1–2 business days and issue a return authorization if approved.",
+      "step4": "Return the unit in its original packaging. Once received and inspected, your refund will be processed through Stripe."
+    },
+    "contact": {
+      "phone": "Call Us",
+      "email": "Email Us"
+    }
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: January 1, 2025",
+    "sections": {
+      "collection": {
+        "title": "Information We Collect",
+        "content": "We collect information you provide directly to us, including your name, email address, phone number, shipping address, and payment information when you place an order. We also collect technical information about your device and browsing behavior to improve our website."
+      },
+      "use": {
+        "title": "How We Use Your Information",
+        "content": "We use the information we collect to process your orders, send order confirmations and shipping notifications, respond to your inquiries, improve our website and services, and send promotional communications if you have opted in."
+      },
+      "sharing": {
+        "title": "Information Sharing",
+        "content": "We do not sell your personal information. We share your information only with service providers who help us operate our business (such as Stripe for payment processing and freight carriers for delivery), and when required by law."
+      },
+      "cookies": {
+        "title": "Cookies and Tracking",
+        "content": "We use cookies and similar tracking technologies to enhance your browsing experience, remember your preferences, and analyze website traffic. You can control cookie settings through your browser preferences."
+      },
+      "security": {
+        "title": "Data Security",
+        "content": "We implement appropriate technical and organizational measures to protect your personal information against unauthorized access, loss, or disclosure. Payment information is processed securely by Stripe and is never stored on our servers."
+      },
+      "rights": {
+        "title": "Your Rights",
+        "content": "You have the right to access, correct, or delete your personal information. You may also opt out of promotional communications at any time by clicking the unsubscribe link in any email or contacting us directly."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "content": "If you have questions about this Privacy Policy, please contact us at sales@jdmtokyomotors.com or call +1 (800) 536-8669. We are available Monday through Friday, 9:00 AM to 5:00 PM PST."
+      }
+    }
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: January 1, 2025",
+    "sections": {
+      "acceptance": {
+        "title": "Acceptance of Terms",
+        "content": "By accessing and using the JDM Tokyo Motorsports website, you accept and agree to be bound by these Terms of Service. If you do not agree to these terms, please do not use our website or purchase our products."
+      },
+      "products": {
+        "title": "Products and Descriptions",
+        "content": "We make every effort to accurately describe our products, including mileage, condition, and compatibility information. However, minor variations may occur. All products are used Japanese domestic market units unless otherwise specified."
+      },
+      "orders": {
+        "title": "Orders and Cancellations",
+        "content": "Orders are subject to acceptance and availability. We reserve the right to cancel or refuse any order at our discretion. If we cancel your order, you will receive a full refund. Order cancellations by the customer must be requested before the order ships."
+      },
+      "payment": {
+        "title": "Payment",
+        "content": "All prices are in US dollars. Payment is processed securely through Stripe. By providing payment information, you represent that you are authorized to use the payment method. We do not store credit card information on our servers."
+      },
+      "shipping": {
+        "title": "Shipping and Delivery",
+        "content": "Shipping rates are $500 for business addresses and $700 for residential addresses, shipped via freight carrier. Delivery times are estimates and not guaranteed. Risk of loss transfers to you upon delivery to the freight carrier."
+      },
+      "returns": {
+        "title": "Returns and Refunds",
+        "content": "Returns are accepted within 30 days of delivery for eligible items as described in our Returns Policy. Refunds are processed through Stripe and may take 5–10 business days to appear on your statement."
+      },
+      "liability": {
+        "title": "Limitation of Liability",
+        "content": "JDM Tokyo Motorsports shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of our products or website. Our total liability shall not exceed the amount paid for the product in question."
+      },
+      "governing": {
+        "title": "Governing Law",
+        "content": "These Terms of Service are governed by the laws of the State of California. Any disputes shall be resolved in the courts of Los Angeles County, California. If any provision of these terms is found to be unenforceable, the remaining provisions shall remain in full effect."
+      }
+    }
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "notFound": "The page you are looking for could not be found.",
+    "outOfStock": "This item is currently out of stock.",
+    "paymentFailed": "Payment failed. Please check your card details and try again.",
+    "invalidAddress": "Please enter a valid shipping address.",
+    "serverError": "A server error occurred. Please try again later.",
+    "networkError": "Network error. Please check your connection and try again."
+  },
+  "admin": {
+    "dashboard": "Dashboard",
+    "orders": "Orders",
+    "customers": "Customers",
+    "products": "Products",
+    "reviews": "Reviews",
+    "inventory": "Inventory",
+    "blog": "Blog",
+    "settings": "Settings",
+    "email": "Email",
+    "account": "Account",
+    "addProduct": "Add Product",
+    "editProduct": "Edit Product",
+    "deleteProduct": "Delete Product",
+    "brandName": "JDM Tokyo Motorsports",
+    "adminPortal": "Admin Portal",
+    "login": {
+      "title": "Admin Portal",
+      "subtitle": "JDM Tokyo Motorsports",
+      "email": "Email Address",
+      "password": "Password",
+      "signIn": "Sign In",
+      "signingIn": "Signing in...",
+      "invalidCredentials": "Invalid email or password. Please try again.",
+      "emailPlaceholder": "admin@jdmtokyomotors.com",
+      "passwordPlaceholder": "Enter your password"
+    },
+    "sidebar": {
+      "logo": "JDM Admin",
+      "collapse": "Collapse sidebar",
+      "expand": "Expand sidebar",
+      "openMenu": "Open menu",
+      "navigation": "Navigation"
+    },
+    "topbar": {
+      "adminPortal": "Admin Portal",
+      "logout": "Sign Out",
+      "welcome": "Welcome, {name}",
+      "openMenu": "Open navigation menu"
+    },
+    "orderStatus": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "processing": "Processing",
+      "shipped": "Shipped",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled"
+    },
+    "paymentStatus": {
+      "pending": "Pending",
+      "paid": "Paid",
+      "failed": "Failed",
+      "refunded": "Refunded",
+      "partially_refunded": "Partially Refunded"
+    },
+    "stats": {
+      "totalOrders": "Total Orders",
+      "totalRevenue": "Revenue (This Month)",
+      "activeProducts": "Active Products",
+      "lowStock": "Low Stock Items"
+    },
+    "actions": {
+      "updateStatus": "Update Status",
+      "addTracking": "Add Tracking",
+      "sendEmail": "Send Email",
+      "viewOrder": "View Order"
+    },
+    "dashboardPage": {
+      "title": "Dashboard",
+      "recentOrders": "Recent Orders",
+      "quickActions": "Quick Actions",
+      "viewAllOrders": "View All Orders",
+      "noRecentOrders": "No recent orders found."
+    },
+    "ordersPage": {
+      "title": "Orders",
+      "allStatuses": "All Statuses",
+      "allPayments": "All Payment Statuses",
+      "searchPlaceholder": "Search by order # or customer...",
+      "noOrders": "No orders found.",
+      "pageOf": "Page {page} of {total}",
+      "table": {
+        "orderNumber": "Order #",
+        "date": "Date",
+        "customer": "Customer",
+        "email": "Email",
+        "status": "Status",
+        "paymentStatus": "Payment",
+        "total": "Total",
+        "actions": "Actions"
+      }
+    },
+    "orderDetail": {
+      "title": "Order Details",
+      "back": "Back to Orders",
+      "orderInfo": "Order Information",
+      "orderNumber": "Order Number",
+      "date": "Date",
+      "status": "Status",
+      "payment": "Payment",
+      "paymentGateway": "Payment Gateway",
+      "transactionId": "Transaction ID",
+      "viewInAuthorizeNet": "View in Authorize.net",
+      "customerInfo": "Customer Information",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "shippingAddress": "Shipping Address",
+      "billingAddress": "Billing Address",
+      "addressType": "Address Type",
+      "business": "Business",
+      "residential": "Residential",
+      "items": "Order Items",
+      "image": "Image",
+      "product": "Product",
+      "sku": "SKU",
+      "quantity": "Qty",
+      "unitPrice": "Unit Price",
+      "lineTotal": "Total",
+      "totals": "Order Totals",
+      "subtotal": "Subtotal",
+      "shipping": "Shipping",
+      "total": "Total",
+      "tracking": "Tracking Number",
+      "carrier": "Carrier",
+      "saveTracking": "Save Tracking",
+      "selectCarrier": "Select Carrier",
+      "notes": "Admin Notes",
+      "notesPlaceholder": "Add internal notes about this order...",
+      "saveNotes": "Save Notes",
+      "timeline": "Order Timeline",
+      "selectStatus": "Select new status",
+      "confirmStatus": "Update Status",
+      "statusUpdate": "Update Order Status",
+      "trackingUpdate": "Update Tracking Details",
+      "sendEmail": "Send Customer Email",
+      "shippingMethod": "Shipping Method",
+      "notFound": "Order not found.",
+      "loading": "Loading order..."
+    },
+    "productsPage": {
+      "title": "Products",
+      "newProduct": "New Product",
+      "allCategories": "All Categories",
+      "allStatuses": "All Statuses",
+      "searchPlaceholder": "Search products...",
+      "noProducts": "No products found.",
+      "deleteConfirm": "Are you sure you want to delete this product? This action cannot be undone.",
+      "deleteTitle": "Delete Product",
+      "table": {
+        "image": "Image",
+        "title": "Title",
+        "sku": "SKU",
+        "category": "Category",
+        "price": "Price",
+        "stock": "Stock",
+        "status": "Status",
+        "actions": "Actions"
+      }
+    },
+    "productForm": {
+      "title": "Product Title",
+      "sku": "SKU",
+      "skuHint": "Auto-generated from title",
+      "price": "Price (USD)",
+      "compareAtPrice": "Compare At Price (USD)",
+      "description": "Description",
+      "shortDescription": "Short Description",
+      "fullDescription": "Full Description",
+      "category": "Category",
+      "engine": "Engine",
+      "transmission": "Transmission",
+      "make": "Make",
+      "model": "Model",
+      "yearStart": "Year Start",
+      "yearEnd": "Year End",
+      "engineCode": "Engine Code",
+      "displacement": "Displacement (e.g. 2.0L)",
+      "cylinders": "Cylinders",
+      "fuelType": "Fuel Type",
+      "transmissionType": "Transmission Type",
+      "status": "Status",
+      "active": "Active",
+      "draft": "Draft",
+      "archived": "Archived",
+      "featured": "Featured Product",
+      "images": "Images",
+      "dragDropImages": "Drag and drop images here, or click to browse",
+      "seo": "SEO",
+      "metaTitle": "Meta Title",
+      "metaDescription": "Meta Description",
+      "slug": "URL Slug",
+      "slugHint": "Auto-generated from title",
+      "save": "Save Product",
+      "saving": "Saving...",
+      "quantity": "Quantity",
+      "maxPerOrder": "Max Per Order",
+      "inventorySection": "Inventory",
+      "pricingSection": "Pricing",
+      "basicInfo": "Basic Information",
+      "vehicleFitment": "Vehicle Fitment",
+      "imagesSection": "Images",
+      "seoSection": "SEO",
+      "statusSection": "Status & Visibility",
+      "newProduct": "New Product",
+      "editProduct": "Edit Product",
+      "selectMake": "Select Make",
+      "selectModel": "Select Model",
+      "selectFuelType": "Select Fuel Type",
+      "selectTransmissionType": "Select Transmission Type",
+      "selectCategory": "Select Category",
+      "selectStatus": "Select Status",
+      "deleteProduct": "Delete Product",
+      "deleteConfirm": "Are you sure you want to delete this product?",
+      "gasoline": "Gasoline",
+      "diesel": "Diesel",
+      "hybrid": "Hybrid",
+      "electric": "Electric",
+      "manual": "Manual",
+      "automatic": "Automatic",
+      "cvt": "CVT",
+      "sequential": "Sequential"
+    },
+    "inventoryPage": {
+      "title": "Inventory",
+      "searchPlaceholder": "Search by product name or SKU...",
+      "noProducts": "No products found.",
+      "changeReason": "Change Reason",
+      "changeReasonPlaceholder": "Enter reason for stock change...",
+      "changeReasonRequired": "Change reason is required",
+      "saveStock": "Save",
+      "saving": "Saving...",
+      "table": {
+        "product": "Product",
+        "sku": "SKU",
+        "stock": "Current Stock",
+        "status": "Status",
+        "actions": "Actions"
+      },
+      "status": {
+        "inStock": "In Stock",
+        "lowStock": "Low Stock",
+        "outOfStock": "Out of Stock"
+      },
+      "log": {
+        "title": "Change Log",
+        "hide": "Hide Log",
+        "show": "Show Log",
+        "date": "Date",
+        "change": "Change",
+        "reason": "Reason",
+        "by": "By",
+        "noEntries": "No change history found.",
+        "from": "From {prev}",
+        "to": "to {next}"
+      }
+    },
+    "blogPage": {
+      "title": "Blog Posts",
+      "newPost": "New Post",
+      "noPostsFound": "No blog posts found.",
+      "deleteConfirm": "Are you sure you want to delete this post? This action cannot be undone.",
+      "deleteTitle": "Delete Post",
+      "table": {
+        "title": "Title",
+        "status": "Status",
+        "date": "Published Date",
+        "actions": "Actions"
+      },
+      "status": {
+        "draft": "Draft",
+        "published": "Published"
+      },
+      "unpublished": "Unpublished"
+    },
+    "blogEditor": {
+      "title": "Post Title",
+      "slug": "Slug",
+      "slugHint": "Auto-generated from title",
+      "content": "Content",
+      "excerpt": "Excerpt",
+      "excerptPlaceholder": "Brief summary of the post...",
+      "featuredImage": "Featured Image",
+      "metaTitle": "Meta Title",
+      "metaDescription": "Meta Description",
+      "publish": "Publish",
+      "saveDraft": "Save Draft",
+      "saving": "Saving...",
+      "newPost": "New Blog Post",
+      "editPost": "Edit Blog Post",
+      "status": "Status",
+      "published": "Published",
+      "draft": "Draft",
+      "back": "Back to Blog"
+    },
+    "settingsPage": {
+      "title": "Settings",
+      "saleConditions": "Sale Conditions",
+      "maxItemsPerOrder": "Max Items Per Product Per Order",
+      "showOutOfStock": "Show Out of Stock Products",
+      "maxInventoryRestock": "Max Inventory Per Restock",
+      "shippingRates": "Shipping Rates",
+      "businessRate": "Business Shipping Rate (USD)",
+      "residentialRate": "Residential Shipping Rate (USD)",
+      "saveSettings": "Save Settings",
+      "saving": "Saving...",
+      "savedSuccess": "Settings saved successfully.",
+      "saveError": "Failed to save settings. Please try again."
+    },
+    "emailsPage": {
+      "title": "Email Composer",
+      "selectOrder": "Select Order (optional)",
+      "searchOrder": "Search by order # or customer email...",
+      "useTemplate": "Wrap with Branded Template",
+      "previewTitle": "Email Preview",
+      "sendSuccess": "Email sent successfully.",
+      "attachFile": "Attach File",
+      "log": {
+        "title": "Sent Emails",
+        "date": "Date",
+        "recipient": "Recipient",
+        "subject": "Subject",
+        "template": "Template",
+        "status": "Status",
+        "noEmails": "No emails sent yet.",
+        "yes": "Yes",
+        "no": "No"
+      }
+    },
+    "emailComposer": {
+      "to": "To",
+      "subject": "Subject",
+      "body": "Body",
+      "template": "Template",
+      "attachments": "Attachments",
+      "send": "Send Email",
+      "preview": "Preview",
+      "sending": "Sending..."
+    },
+    "inventoryActions": {
+      "updateStock": "Update Stock",
+      "stockLevel": "Stock Level",
+      "changeLog": "Change Log"
+    },
+    "customersPage": {
+      "title": "Customers",
+      "searchPlaceholder": "Search by name, email, or phone...",
+      "noCustomers": "No customers found.",
+      "table": {
+        "name": "Name",
+        "email": "Email",
+        "phone": "Phone",
+        "orders": "Orders",
+        "ltv": "Lifetime Value",
+        "lastOrder": "Last Order"
+      },
+      "detail": {
+        "title": "Customer Profile",
+        "back": "Back to Customers",
+        "totalOrders": "Total Orders",
+        "totalSpent": "Total Spent",
+        "paidRevenue": "Paid Revenue",
+        "firstOrder": "First Order",
+        "lastOrder": "Last Order",
+        "shippingAddresses": "Shipping Addresses",
+        "orderHistory": "Order History"
+      }
+    },
+    "charts": {
+      "revenueTrend": "30-Day Revenue Trend",
+      "categoryRevenue": "Revenue by Category",
+      "revenue": "Revenue",
+      "orders": "Orders",
+      "noData": "No data available"
+    },
+    "filters": {
+      "clearSearch": "Clear",
+      "resetFilters": "Reset Filters"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "pageOf": "Page {page} of {total}"
+    }
+  },
+  "trackOrder": {
+    "title": "Track Your Order",
+    "subtitle": "Check the status of your order using your order number, email address, or phone number.",
+    "searchBy": "Search By",
+    "orderNumber": "Order Number",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "search": "Search",
+    "searching": "Searching...",
+    "noResults": "No orders found. Please check your information and try again.",
+    "status": "Status",
+    "tracking": "Tracking",
+    "orderDate": "Order Date",
+    "total": "Total",
+    "items": "Items",
+    "shipped": "Shipped",
+    "delivered": "Delivered",
+    "carrier": "Carrier",
+    "trackingNumber": "Tracking Number",
+    "enterOrderNumber": "e.g. JDM-2024-0001",
+    "enterEmail": "e.g. john@example.com",
+    "enterPhone": "e.g. (555) 123-4567",
+    "orderPrefix": "Order #",
+    "viewDetails": "View Details"
+  }
+}
